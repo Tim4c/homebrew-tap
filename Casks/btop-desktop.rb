@@ -4,7 +4,7 @@ cask "btop-desktop" do
 
   url "https://github.com/Tim4c/BtopDesktop/releases/download/v#{version}/BtopDesktop-#{version}-macos-arm64.zip"
   name "Btop Desktop"
-  desc "The btop system monitor integrated into the macOS desktop"
+  desc "System monitor integrated into the desktop"
   homepage "https://github.com/Tim4c/BtopDesktop"
 
   depends_on arch: :arm64
