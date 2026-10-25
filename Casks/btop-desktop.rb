@@ -1,6 +1,6 @@
 cask 'btop-desktop' do
-  version '0.2.1'
-  sha256 'b19326ee0c755ec51d410ddfb0e3cc18fd8db8a437a55ff836a9bec24bc82f71'
+  version '0.2.2'
+  sha256 'f6ee1ad0d77f7d92ede399749896e2b30d6c2b10e37062d04f1138e77e045c7c'
 
   url "https://github.com/Tim4c/BtopDesktop/releases/download/v#{version}/BtopDesktop-#{version}-macos-arm64.zip"
   name 'Btop Desktop'
